@@ -80,3 +80,6 @@ D:\Projects\Angular_WebAPI\Angular 8 Quiz App With Web API\WebAPI\WebAPI\obj\Deb
 D:\Projects\Angular_WebAPI\Angular 8 Quiz App With Web API\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
 D:\Projects\Angular_WebAPI\Angular 8 Quiz App With Web API\WebAPI\WebAPI\obj\Debug\WebAPI.dll
 D:\Projects\Angular_WebAPI\Angular 8 Quiz App With Web API\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+D:\Projects\Angular_WebAPI\Angular 8 Quiz App With Web API\WebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\Projects\Angular_WebAPI\Angular 8 Quiz App With Web API\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+D:\Projects\Angular_WebAPI\Angular 8 Quiz App With Web API\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
